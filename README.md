@@ -1,6 +1,6 @@
 ## Welcome to my github page 👋
 
-### AU Computer engineering BSC(5/6)
+### AU Computer engineering Bsc(5/6)
 <!--
 **Teun0n/Teun0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
